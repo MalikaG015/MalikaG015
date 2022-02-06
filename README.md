@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate with **an organization where I can work on backend projects and accquire an expertise as a backend developer.**
 
+- 🤝 I’m currently working **as a trainee at functionup.**
+
 - 👨‍💻 All of my projects are available at [https://github.com/MalikaG015](https://github.com/MalikaG015)
 
 - 📝 Feel free to visit my LinkedIn profile [https://www.linkedin.com/in/malika-gulati-3674311a9/](https://www.linkedin.com/in/malika-gulati-3674311a9/)
