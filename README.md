@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Malika Gulati😀</h1>
+<h1 align="center">Hi, I'm Malika Gulati 😀</h1>
 <h3 align="center">I'm a passionate backend developer👩🏻‍💻</h3>
 
-- 🔭 I’m currently working on **creating a dynamic weather website using real-time api, html and node js.**
+- 🔭 I’m currently working on **a project where I am creating a dynamic weather website using real-time api, html and node js.**
 
 - 🌱 I’m currently learning **Javascript, node js, react, mongo db, git**
 
