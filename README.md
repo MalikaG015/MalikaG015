@@ -5,7 +5,7 @@
 
 - 🌱 I’m proficient in  **Javascript, node js, react, mongo db, sql and typescript**
 
-- 👯 I am eager to contribute my skills to a forward-thinking organization that values collaboration, innovation, and continuous improvement, while enhancing my technical expertise in ** full-stack development.**
+- 👯 I am eager to contribute my skills to a forward-thinking organization that values collaboration, innovation, and continuous improvement, while enhancing my technical expertise in full-stack development.
 
 - 👨‍💻 All of my projects are available at [https://github.com/MalikaG015](https://github.com/MalikaG015)
 
