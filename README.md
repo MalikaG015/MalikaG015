@@ -1,17 +1,15 @@
 <h1 align="center">Hi, I'm Malika Gulati 😀</h1>
 <h3 align="center">I'm a passionate backend developer👩🏻‍💻</h3>
 
-- 🔭 I’m currently working on **a project where I am creating a dynamic weather website using real-time api, html and node js.**
+- 🔭 I’m currently working as **a software developer at Think Future Technologies**
 
-- 🌱 I’m currently learning **Javascript, node js, react, mongo db, git**
+- 🌱 I’m proficient in  **Javascript, node js, react, mongo db, sql and typescript**
 
-- 👯 I’m looking to collaborate with **an organization where I can work on backend projects and accquire an expertise as a backend developer.**
-
-- 🤝 I’m currently working **as a trainee at functionup.**
+- 👯 I am eager to contribute my skills to a forward-thinking organization that values collaboration, innovation, and continuous improvement, while enhancing my technical expertise in ** full-stack development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MalikaG015](https://github.com/MalikaG015)
 
-- 📝 Feel free to visit my LinkedIn profile [https://www.linkedin.com/in/malika-gulati-3674311a9/](https://www.linkedin.com/in/malika-gulati-3674311a9/)
+- 📝 Feel free to visit my LinkedIn profile [https://www.linkedin.com/in/malika-gulati/])
 
 - 📫 How to reach me **malikagulati015@gmail.com**
 
